@@ -1,0 +1,12 @@
+img {
+    width: 70px;
+}
+ul li {
+    font-size: 18px;
+    background: #0897CF;
+    padding: 0 20px;
+    border-radius: 10px;
+}
+ul {
+    gap: 20px;
+}
